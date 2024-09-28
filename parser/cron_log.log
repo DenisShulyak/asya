@@ -1,0 +1,10 @@
+[2024-09-28 20:51:18] Удаляем содержимое папки /var/www/www-root/data/www/test-asya.ru/parser/parsed_data/
+[2024-09-28 20:51:18] Запуск скрипта /var/www/www-root/data/www/test-asya.ru/parser/cron_hw.py
+[2024-09-28 20:51:18] Внимание! Файл /var/www/www-root/data/www/test-asya.ru/parser/parsed_data/empty.json пустой (0 байт)
+[2024-09-28 20:51:18] Скрипт выполнен успешно
+[2024-09-28 21:10:24] Удаляем содержимое папки /var/www/www-root/data/www/test-asya.ru/parser/parsed_data/
+[2024-09-28 21:10:24] Запуск скрипта /var/www/www-root/data/www/test-asya.ru/parser/main.py
+[2024-09-28 21:10:24] Скрипт выполнен успешно
+[2024-09-28 21:16:17] Удаляем содержимое папки /var/www/www-root/data/www/test-asya.ru/parser/parsed_data/
+[2024-09-28 21:16:17] Запуск скрипта /var/www/www-root/data/www/test-asya.ru/parser/main.py
+[2024-09-28 21:16:17] Скрипт выполнен успешно
